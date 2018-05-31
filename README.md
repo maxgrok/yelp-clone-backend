@@ -1,24 +1,7 @@
 # README
+This is a Rails 5.2 JSON API backend for the yelp-clone project for the Flatiron School. It provides data that is fetched from the front-end by yelp-clone-frontend. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Contributions: 
+If you would like to contribute, submit a pull request. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+License: Creative Commons Attribution License
